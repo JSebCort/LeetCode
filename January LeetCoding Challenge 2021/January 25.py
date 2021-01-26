@@ -1,7 +1,7 @@
-# Problem Name: Check If All 1's Are at Least Length K Places Away
-# Description: Given an array nums of 0s and 1s and an integer k, return True if all 1's are at least k places away from each other, otherwise return False.
-
 '''
+Problem Name: Check If All 1's Are at Least Length K Places Away
+Description: Given an array nums of 0s and 1s and an integer k, return True if all 1's are at least k places away from each other, otherwise return False.
+
 EXAMPLE
 Input: nums = [1,0,0,0,1,0,0,1], k = 2
 Output: true
