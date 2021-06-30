@@ -12,6 +12,7 @@
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/SearchA2DMatrixII.py)|
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/ValidAnagram.py) |
 | [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)| [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/ShortestDistanceToACharacter.py)|
+| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/BackspaceStringCompare.py)|
 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/BrokenCalculator.py)|
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/MinimumRemoveToMakeValidParentheses.py) |
 | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/TheKWeakestRowsInAMatrix.py) |
