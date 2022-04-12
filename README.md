@@ -1,6 +1,6 @@
-| LeetCode Problem | My Solution  |
+| LeetCode Problem | My Solution(s)  |
 |---|:-:|
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)  | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/TwoSum.py)  |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)  | [Link](https://github.com/JSebCort/LeetCode/tree/master/Problems/TwoSum)  |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/PalindromeNumber.py)  |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/ContainerWithMostWater.py)|
 | [	13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/RomanToInteger.py) |
