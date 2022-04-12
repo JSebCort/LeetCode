@@ -55,17 +55,11 @@ public:
         
         while (front < end) {
             int sum = sorted[front] + sorted[end];
-            cout<<"sum"<<sum<<" || ";
-            cout<<"front "<<front<<" nums[front]"<<sorted[front]<<" || ";
-            cout<<"end "<<end<<" nums[end]"<<sorted[end]<<"\n";
             if (sum == target) {
-                cout<<"breaking";
                 break;
             } else if (sum < target) {
-                cout<<"front++";
                 front++;
             } else {
-                cout<<"end--";
                 end--;
             }
         }
