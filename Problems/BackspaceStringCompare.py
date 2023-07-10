@@ -25,7 +25,7 @@ class Solution:
 			
 			# For loop that iterates over the input string.
             for i in string:
-				# If the input is a character, append it to list
+				# If the input is a character, append it to list.
                 if i != '#':
                     lst.append(i)
 				# Else, pop out the recent character as it would've been backspaced.
