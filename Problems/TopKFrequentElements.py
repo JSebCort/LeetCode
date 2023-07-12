@@ -29,7 +29,9 @@ class Solution:
             count[i] = 1 + count.get(i, 0)
 
         #Store the number of times any given number appeared in nums.
+        #Every index = the number of times the number stored at that index appeared in numbs.
         #   ans: [[], [3], [2], [1], [], [], []]
+        #The number 3 is at index 1, so it appeared 1 time in nums. Number 1 @ index 3 appeared 3 times.
         for n, c in count.items():
             ans[c].append(n)
 
