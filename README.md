@@ -12,6 +12,7 @@
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/NumberOf1Bits.py) |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/SearchA2DMatrixII.py)|
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/ValidAnagram.py) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/TopKFrequentElements.py) |
 | [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)| [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/ShortestDistanceToACharacter.py)|
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/BackspaceStringCompare.py)|
 | [991. Broken Calculator](https://leetcode.com/problems/broken-calculator) | [Link](https://github.com/JSebCort/LeetCode/blob/master/Problems/BrokenCalculator.py)|
